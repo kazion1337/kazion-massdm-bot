@@ -30,3 +30,6 @@ _______________
 the bot that you use must have intents enabled to be able to massdm
 _______________
 [enjoy using my massdm bot😃](https://www.youtube.com/channel/UC8qf6C2JgE_QDjVw75rVFpQ)
+
+
+- [Click Here](https://repl.it/github/kazion1337/kazion-massdm-bot) to run it in repl.it
